@@ -1,4 +1,4 @@
 <?php
-  $test="I'm a variable";
-  echo $test;
+  $number=75;
+  echo $number/3;
 ?>
